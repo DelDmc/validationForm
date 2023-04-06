@@ -1,0 +1,31 @@
+{
+  "name": "validationform",
+  "version": "1.0.0",
+  "description": "Validation form for demo of validation lib",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelDmc/validationForm.git"
+  },
+  "author": "Dmc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DelDmc/validationForm/issues"
+  },
+  "homepage": "https://github.com/DelDmc/validationForm#readme",
+  "dependencies": {
+    "dmc-validation-lib": "^1.0.4",
+    "lite-server": "^2.6.1",
+    "webpack": "^5.77.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.2",
+    "webpack-cli": "^5.0.1"
+  }
+}
