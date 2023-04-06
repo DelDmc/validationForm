@@ -1,5 +1,5 @@
 {
-  "name": "validationform",
+  "name": "@dmc12/validationform",
   "version": "1.0.0",
   "description": "Validation form for demo of validation lib",
   "main": "/src/index.js",
